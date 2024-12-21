@@ -1,0 +1,20 @@
+### Required Experience and Technical Skills:
+
+- **2-4 years of experience in Data Engineering**, particularly in **AI/ML contexts**.
+- **Advanced proficiency in Python** for data manipulation, automation, and analysis.
+- Strong understanding of **Large Language Model (LLM) architectures**, **training processes**, and **data requirements**.
+- Experience with **RAG systems** (Retrieval-Augmented Generation), **knowledge base construction**, and **vector databases**.
+- Familiarity with **embedding techniques**, **similarity search algorithms**, and **information retrieval concepts**.
+- Hands-on experience in **data cleaning**, **tagging**, and **annotation** processes (manual and automated).
+- Experience in designing and developing **ETL pipelines** for data extraction, transformation, and loading.
+- Strong understanding of **data warehousing solutions** and **database optimization** for large-scale data storage.
+- Familiarity with **AI/ML platforms** and frameworks such as **TensorFlow**, **PyTorch**, **LLaMA.cpp**, and **Kubeflow**.
+- Experience with **vector store technologies** for AI and machine learning applications.
+- Knowledge of **Cloud Native Technologies** like **Kubernetes** and **cloud storage solutions** (e.g., **S3**, **Parquet**, **Avro**).
+- Familiarity with **data lakehouse concepts** and architectures.
+- Experience with **CI/CD systems** and **DevOps methodologies** in an **agile development** environment.
+- Understanding of **LLM parameters** (e.g., temperature, top-k, repeat penalty) and **LLM outcome evaluation metrics**.
+
+### Preferred Skills:
+- Experience with **big data storage techniques** (Parquet, Avro, S3).
+- Exposure to **cloud-native technologies** and platforms like **Kubernetes**.

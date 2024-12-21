@@ -1,0 +1,26 @@
+### Required Experience and Technical Skills:
+
+- **Bachelor's degree** in Computer Science, Engineering, Mathematics, or a related field (or equivalent practical experience).
+- **4+ years** of experience in developing and troubleshooting **data processing algorithms** and software using:
+  - **Python**, **Java**, **Scala**, **Spark**, and **Hadoop** frameworks.
+- Experience in **distributed data processing frameworks** and modern **GCP analytical and transactional data stores** like:
+  - **BigQuery**, **CloudSQL**, **AlloyDB**, etc.
+- Strong experience in **SQL** and **database systems** (ability to write complex queries).
+- Hands-on experience with **GCP** cloud technologies and tools.
+  
+### Preferred Skills:
+
+- Experience working with **data warehouses**, including technical architecture, **ETL/ELT processes**, and reporting/analytics tools.
+- Knowledge of **encryption techniques** (e.g., symmetric, asymmetric, HSMs) and implementing secure key storage with **Key Management System**.
+- Experience in building **high availability, multi-tier applications** with **NoSQL** (e.g., **MongoDB**), **SparkML**, and **TensorFlow**.
+- Experience architecting and developing **Big Data solutions** for **production-grade environments** in virtualized setups.
+- Experience in **data mining**, **information retrieval**, and **Machine Learning**.
+- Proficiency with **IaC (Infrastructure as Code)** tools and **CICD** systems like **Terraform**, **Ansible**, and **Jenkins**.
+- Familiarity with **Google Cloud** tools and the ability to lead **data migrations**, **modernization projects**, and **data pipeline** optimizations on **GCP**.
+
+### Responsibilities:
+
+- Design, migrate, and operationalize **data storage** and **processing infrastructure** using **Cloud-native products**.
+- Develop and implement **data governance** procedures ensuring **data accuracy** and **reliability**.
+- Collaborate with **stakeholders** to translate customer requirements into actionable solution architectures.
+- Lead **data modernization and migration projects** and assist customers in designing large-scale data systems.
